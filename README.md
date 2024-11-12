@@ -5,7 +5,7 @@ Excel, Power BI, and Tableau.
 I specialize in transforming complex data into actionable insights 
 that drive business decisions.
 My work involves creating interactive dashboards, conducting statistical 
-analysis, and cleaningndatasets to provide clarity and support data-driven 
+analysis, and cleaning datasets to provide clarity and support data-driven 
 strategies.
 
 ## 🔹 Key Projects
